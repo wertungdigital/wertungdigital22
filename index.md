@@ -6,7 +6,7 @@ title: home
 
 [home](index.md) | [Beschreibung des Panels](beschreibung.md)
 
-![](assets/pics/books_and_star.jpg)
+![](assets/pics/books_and_star_klein.jpg)
 
 ## Willkommen zum Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“, Montag 26.09.22, 1400–1600 Uhr
 [27. Deutscher Germanistentag 2022](https://express.converia.de/frontend/index.php?folder_id=4175&page_id=) | 25.–28. September 2022 | Universität Paderborn im [Themenbereich 2: Phänomenorientierte Zugänge](https://express.converia.de/frontend/index.php?page_id=23733).
