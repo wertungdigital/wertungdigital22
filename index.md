@@ -31,7 +31,7 @@ title: home
 - Raum C5.206
 
 
-### vorläufiger Ablauf
+### Vorläufiger Ablauf
 
 Prof. Dr. Berenike Herrmann (Bielefeld), Dr. Maria Kraxenberger (Stuttgart): Einführung:
 Nicht-eindeutige Wertung von Literatur im Digitalen Raum
