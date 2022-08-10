@@ -1,4 +1,19 @@
-### Beschreibung des Panels
+---
+layout: default
+title: home
+
+---
+
+![](assets/pics/stars1.jpg)
+
+[home](index.md) | [Beschreibung des Panels](beschreibung.md)
+
+## Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ 
+
+27. Germanistentag 2022 in Paderborn (25. - 28.09.22)
+
+
+# Beschreibung des Panels
 
 Millionen von UserInnen bewerten heute über eine Vielzahl digitaler Apps und Internet-Plattformen literarische Bücher und Geschichten. Die Bandbreite reicht von Vergabe von Sternchen und Likes über ausführliche Rezensionen bis zur Weiter- und Umschreibung bekannter Geschichten in der Fan Fiction. Dabei erfahren gerade die nicht-eindeutigen Wertungen, also Wertungshandlungen, die eine Mittelposition zwischen den evaluativen Polen einnehmen, im digitalen Raum eine bisher unbekannte – und nur wenig beachtete – Dimension. 
 
