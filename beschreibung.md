@@ -3,10 +3,9 @@ layout: default
 title: home
 
 ---
+[home](index.md) | [Beschreibung des Panels](beschreibung.md)
 
 ![](assets/pics/stars1.jpg)
-
-[home](index.md) | [Beschreibung des Panels](beschreibung.md)
 
 ## Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ 
 
