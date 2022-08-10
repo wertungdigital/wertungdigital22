@@ -25,7 +25,7 @@ title: home
 
 
 ### Details
-- Montag 26.09.22, 1400–1600 Uhr
+- Montag 26.09.22, 14:00–16:00 Uhr
 - Themenbereich 2: Phänomenorientierte Zugänge 
 - Panel 2.53 
 - Raum C5.206
