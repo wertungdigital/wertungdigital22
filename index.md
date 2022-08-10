@@ -4,13 +4,17 @@ title: home
 
 ---
 
-![](assets/pics/stars1.jpg)
-
 [home](index.md) | [Beschreibung des Panels](beschreibung.md)
 
-## Willkommen zum Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ 
+![](assets/pics/stars1.jpg)
 
-27. Germanistentag 2022 in Paderborn (25. - 28.09.22)
+## Willkommen zum Panel „Weder Fail noch Lobgesang: Nicht-eindeutige Wertung von Literatur im Digitalen Raum“ am [27. Deutscher Germanistentag 2022 | 25.–28. September 2022 | Universität Paderborn](https://express.converia.de/frontend/index.php?folder_id=4175&page_id=) im 
+[Themenbereich 2: Phänomenorientierte Zugänge](https://express.converia.de/frontend/index.php?page_id=23733).
+
+## Organisator*innen
+- Prof. Dr. Berenike Herrmann (Bielefeld)
+- Dr. Maria Kraxenberger (Stuttgart)
+
 
 ### Abstracts
 
@@ -19,10 +23,6 @@ title: home
 - [Abstract Sandra Richter und Georg Pardi](abstract_richter_pardi.md)
 - [Abstract Simone Winko](abstract_winko.md)
 
-
-### Organisatorinnen
-- Prof. Dr. Berenike Herrmann (Bielefeld)
-- Dr. Maria Kraxenberger (Stuttgart)
 
 ### Details
 - Themenbereich 2: Phänomenorientierte Zugänge 
