@@ -16,7 +16,7 @@ title: home
 
 - [Abstract Thomas Ernst](abstract_ernst.md)
 - [Abstract Anna Moskvina und Kirstina Petzold](abstract_moskvina_petzold.md)
-- [Abstract Sandra Richter](abstract_Richter.md)
+- [Abstract Sandra Richter und Georg Pardi](abstract_richter_pardi.md)
 - [Abstract Simone Winko](abstract_winko.md)
 
 
@@ -39,7 +39,7 @@ Anna Moskvina (Hildesheim), Kristina Petzold (Bielefeld): „Einfach klasse!“ 
 puslinguistische Analyse zur Eindeutigkeit von digitalen rezensiven Texten auf Ama-
 zon.de und Buechertreff.de
 
-Prof. Dr. Sandra Richter (Marbach, Stuttgart): Nicht-eindeutiges Erleben und Bewerten
+Prof. Dr. Sandra Richter (Marbach, Stuttgart) und Dr. Georg Pardi (IWM): Nicht-eindeutiges Erleben und Bewerten
 von kanonischer Literatur im Digitalen Raum
 
 Prof. Dr. Simone Winko (Göttingen): Ausgewogen, anschlussfähig, unentschieden? Zum
