@@ -1,3 +1,5 @@
+[home](index.md) | [Beschreibung des Panels](beschreibung.md) 
+
 # Ausgewogen, anschlussfähig, unentschieden? Zum Begriff der nicht-eindeutigen Wertung und zur Vielfalt uneindeutiger Wertungen in der digitalen Kommunikation über Literatur
 
 ## Prof. Simone Winko (Universität Göttingen)
