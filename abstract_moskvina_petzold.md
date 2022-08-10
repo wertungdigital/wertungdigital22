@@ -1,3 +1,5 @@
+[home](index.md) | [Beschreibung des Panels](beschreibung.md) 
+
 # „Einfach klasse!“ – Eine korpuslinguistische Analyse zur (Nicht-)Eindeutigkeit von digitalen rezensiven Texten auf Amazon.de und Buechertreff.de
 ## Anna Moskvina, Kristina Petzold (Universität Bielefeld)
 
