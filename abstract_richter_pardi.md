@@ -1,3 +1,5 @@
+[home](index.md) | [Beschreibung des Panels](beschreibung.md) 
+
 # Nicht-eindeutiges Erleben und Bewerten von kanonischer Literatur im Digitalen Raum
 
 ## Sandra Richter (Marbach, Stuttgart) und Georg Pardi (IWM)
