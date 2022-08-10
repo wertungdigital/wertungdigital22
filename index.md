@@ -4,7 +4,7 @@ title: home
 
 ---
 
-![](images/header3.png)
+![](assets/pics/stars1.jpg)
 
 [home](index.md) | [Beschreibung des Panels](beschreibung.md)
 
@@ -39,8 +39,7 @@ Anna Moskvina (Hildesheim), Kristina Petzold (Bielefeld): „Einfach klasse!“ 
 puslinguistische Analyse zur Eindeutigkeit von digitalen rezensiven Texten auf Ama-
 zon.de und Buechertreff.de
 
-Prof. Dr. Sandra Richter (Marbach, Stuttgart) und Dr. Georg Pardi (IWM): Nicht-eindeutiges Erleben und Bewerten
-von kanonischer Literatur im Digitalen Raum
+Prof. Dr. Sandra Richter (Marbach, Stuttgart) und Dr. Georg Pardi (IWM): Nicht-eindeutiges Erleben und Bewerten von kanonischer Literatur im Digitalen Raum
 
 Prof. Dr. Simone Winko (Göttingen): Ausgewogen, anschlussfähig, unentschieden? Zum
 Begriff der nicht-eindeutigen Wertung und zur Vielfalt uneindeutiger Wertungen in
