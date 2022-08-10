@@ -4,7 +4,7 @@ title: home
 
 ---
 
-[home](index.md) | [Beschreibung des Panels](beschreibung.md)
+[Home](index.md) | [Beschreibung des Panels](beschreibung.md)
 
 ![](assets/pics/books_and_star_klein.jpg)
 
