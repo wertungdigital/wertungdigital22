@@ -1,3 +1,5 @@
+[home](index.md) | [Beschreibung des Panels](beschreibung.md) 
+
 # Memes und Mojo: Mehrwerte für die Online-Literaturkritik? Zur Messbarkeit uneindeutiger Wertungen in Sozialen Medien
 
 ## Thomas Ernst (Universiteit Antwerpen)
